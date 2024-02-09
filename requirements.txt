@@ -1,0 +1,2 @@
+coremltools==7.1
+torch==2.0.1
