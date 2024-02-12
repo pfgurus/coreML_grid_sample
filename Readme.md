@@ -2,6 +2,12 @@
 
 This repository contains a minimum code to reproduce coreML issue on Mac M1. Below are the instructions to run it:
 
+## Cloning the repo
+
+1. Clone this repository to your local machine.
+2. Navigate to the directory where you cloned the repository.
+
+
 ## Prerequisites
 
 Install the requirements using the following command, (if needed, create a new conda environment and activate it first):
@@ -12,10 +18,6 @@ conda activate test_coreML
 pip install -r requirements.txt
 ```
 
-## Installation
-
-1. Clone this repository to your local machine.
-2. Navigate to the directory where you cloned the repository.
 
 ## Usage
 
